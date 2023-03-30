@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-css-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./src/css/main.css",
+    "watch": "npx tailwindcss -i ./src/input.css -o ./src/css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grand-rick001/tailwind-css-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grand-rick001/tailwind-css-intro/issues"
+  },
+  "homepage": "https://github.com/grand-rick001/tailwind-css-intro#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.0"
+  }
+}
