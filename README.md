@@ -12,3 +12,6 @@ It's fast, flexible, and reliable — with zero-runtime."
 This project follows the following tutorial from Traversy Media on YouTube
 
 [![Tailwind CSS Crash Course by Traversy Media](https://img.youtube.com/vi/dFgzHOX84xQ/0.jpg)](https://www.youtube.com/watch?v=dFgzHOX84xQ)
+
+## **Website**
+You can check out the website [here](https://tailwind-css-intro.vercel.app/)
